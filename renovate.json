@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "detectHostRulesFromEnv": false,
+  "allowedPostUpgradeCommands": ["some command"],
+  "onboardingCommitMessage": "hello",
+  "onboardingConfig": {
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json-X"
+  },
+  "prCommitsPerRunLimit": 10
+}
