@@ -6,5 +6,6 @@
   "onboardingConfig": {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json-X"
   },
-  "prCommitsPerRunLimit": 10
+  "prCommitsPerRunLimit": 10,
+  "dependencyDashboard": true
 }
